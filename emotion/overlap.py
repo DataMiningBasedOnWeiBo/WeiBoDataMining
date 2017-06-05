@@ -1,11 +1,13 @@
-# -*- coding: utf-8 -*-
+# -*- encoding: utf-8 -*-
 import apriori
+from getsim import get_sim
+import chardet
 
 
 # 计算两个词语语义相似度
 # xb喵喵喵
 def sim(f, t):
-    return float(f==t)
+    return get_sim(f, t)
 
 
 # 计算文档doc对聚类cluster的隶书度
@@ -14,7 +16,8 @@ def score(cluster, doc):
     for t in doc:
         max_sim = 0.0
         for f in cluster:
-            max_sim = sim(f,t)
+            max_sim = sim(f, t)
+            #print(max_sim)
         ans += max_sim
     return ans / len(doc)
 
@@ -35,10 +38,13 @@ def main(docs, clusters):
                 bel = j
         belong[i] = bel
         #print(docs[i], ' ', clusters[j])
-
     return belong
 
+
 if __name__ == '__main__':
-    docs = apriori.D
-    clusters = apriori.apriori(docs, 0.7)
-    main(docs, clusters)
+
+    docs = apriori.docs
+    clusters = apriori.apriori(docs, 0.1)
+    print(clusters)
+    kk = main(docs, clusters)
+    print(kk)

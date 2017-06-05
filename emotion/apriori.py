@@ -1,6 +1,9 @@
-# -*- coding=utf-8 -*-
+# -*- encoding: utf-8 -*-
+import imp
 import sys
-
+import json
+imp.reload(sys)
+from chardet import detect
 
 def apriori(D, minSup):
     '''频繁项集用keys表示，
@@ -102,6 +105,35 @@ D = [['A', 'B', 'C', 'D'],
      ['A', 'B', 'C', 'D']]
 
 
+def fuck_wx_json():
+    f = open('data/wx.json', encoding='utf-8')
+    data = f.read()
+    data = '[' + data + ']'
+    data = data.replace('}\n{', '},\n{')
+    f = open('data/data.json','w',encoding='utf-8')
+    f.write(data)
+
+
+def get_data_from_wx():
+    fuck_wx_json()
+    f = open('data/data.json', encoding='utf-8')
+    data = json.load(f)
+
+    global docs
+    docs = []
+    for item in data:
+        seg = item['segresult']
+        if seg == None: continue
+        doc = seg.split(' ')
+        doc.pop()
+        docs.append(doc)
+    return docs
+
+
+docs = get_data_from_wx()
 if __name__ == '__main__':
-    F = apriori(D, 0.7)
+    print(docs)
+    F = apriori(docs, 0.1)
+    print (len(F))
     print('frequent itemset:', F)
+    print(detect(F[0][0].encode('utf-8')))

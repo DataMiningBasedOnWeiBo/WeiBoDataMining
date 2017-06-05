@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- encoding: utf-8 -*-
 import overlap
 import apriori
 
@@ -6,6 +6,7 @@ import apriori
 def sim_clu(clu_a, clu_b):
     if type(clu_a) == int or type(clu_b) == int: return 0
     k = (len(clu_a) * len(clu_b)) / 2
+    k = int(k)
     if k == 0: k = len(clu_a) * len(clu_b)
     sims = []
     for a in clu_a:
@@ -44,6 +45,7 @@ def get_mat(clusters):
 #合并a, b两个情感簇
 #合并其特征词，讲原本属于b的doc丢进a中
 def merge(a, b):
+    print('merge %d %d', a, b)
     for word in clusters[b]:
         if not word in clusters[a]:
             clusters[a].append(word)
@@ -64,8 +66,13 @@ def main(clusters, k, n):
 
 
 if __name__ == '__main__':
-    docs = apriori.D
-    clusters = apriori.apriori(docs, 0.7)
+    docs = apriori.docs
+    clusters = apriori.apriori(docs, 0.1)
     belong  = overlap.main(docs,clusters)
-    result = main(clusters, 0.7, 6)
-    print result
+    result = main(clusters, 0.4, 6)
+    for i in range(len(result)):
+        if type(clusters[i]) == int:continue
+        sum = 0
+        for j in range(len(belong)):
+            if belong[j] == i: sum += 1
+        print(clusters[i], ' ', sum)
