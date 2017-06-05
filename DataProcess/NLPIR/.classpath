@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_79"/>
+	<classpathentry kind="lib" path="G:/Project/eclipse/NLPIR/lib/jna-4.0.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="G:/Project/eclipse/NLPIR/lib/mongo-java-driver-3.4.2.jar"/>
+	<classpathentry kind="lib" path="G:/Project/eclipse/NLPIR/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="G:/Project/eclipse/NLPIR/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="G:/Project/eclipse/NLPIR/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="G:/Project/eclipse/NLPIR/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="G:/Project/eclipse/NLPIR/lib/ezmorph-1.0.3.jar"/>
+	<classpathentry kind="lib" path="G:/Project/eclipse/NLPIR/lib/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
