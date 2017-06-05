@@ -3,7 +3,6 @@ import imp
 import sys
 import json
 imp.reload(sys)
-from chardet import detect
 
 def apriori(D, minSup):
     '''频繁项集用keys表示，
@@ -136,4 +135,3 @@ if __name__ == '__main__':
     F = apriori(docs, 0.1)
     print (len(F))
     print('frequent itemset:', F)
-    print(detect(F[0][0].encode('utf-8')))
