@@ -44,7 +44,7 @@ def main(docs, clusters):
 if __name__ == '__main__':
 
     docs = apriori.docs
-    clusters = apriori.apriori(docs, 0.1)
+    clusters = apriori.apriori(docs, 0.02)
     print(clusters)
     kk = main(docs, clusters)
     print(kk)

@@ -106,17 +106,15 @@ D = [['A', 'B', 'C', 'D'],
 
 
 def fuck_wx_json():
-    f = open('data/wx.json', encoding='utf-8')
+    f = open('data/weibodata.json', encoding='utf-8')
     data = f.read()
-    data = '[' + data + ']'
-    data = data.replace('}\n{', '},\n{')
+    data = data.replace('“seg”','')
     f = open('data/data.json','w',encoding='utf-8')
     f.write(data)
 
 
 def get_data_from_wx():
-    fuck_wx_json()
-    f = open('data/data.json', encoding='utf-8')
+    f = open('data/wx.json', encoding='utf-8')
     data = json.load(f)
 
     global docs
@@ -130,10 +128,35 @@ def get_data_from_wx():
     return docs
 
 
-docs = get_data_from_wx()
+def get_weibo_data():
+    f = open('data/weibo.json',encoding='utf-8')
+    data = json.load(f)
+
+    docs = []
+    for item in data:
+        #print(item['-id'])
+        sens = item['sentence']
+        if type(sens) == dict:
+            doc = sens['seg']
+            if doc == '': continue
+            doc = doc.split(' ')
+            #print(doc)
+            docs.append(doc)
+        else:  # list: len > 1
+            for sen in sens:
+                doc = sen['seg']
+                if doc == '': continue
+                doc = doc.split(' ')
+                #print(doc)
+                docs.append(doc)
+    print('初始情感簇：%d 个' % len(docs))
+    return docs
+
+docs = get_weibo_data()
+
+
 if __name__ == '__main__':
     print(docs)
-    F = apriori(docs, 0.1)
+    F = apriori(docs, 0.02)
     print (len(F))
     print('frequent itemset:', F)
-    print(detect(F[0][0].encode('utf-8')))

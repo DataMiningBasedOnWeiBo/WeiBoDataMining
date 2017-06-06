@@ -1,0 +1,4424 @@
+[
+  {
+    "-id": "1",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "三八节下午路过中牟县~见到很多美女~手执鲜花[鲜花]~一打听~这里不仅美女如云~而且是千古笫一帅哥潘安的故里。。。"
+    “seg”:”美女 鲜花 美女”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "[给力][萌]"
+        “seg”:””
+      }
+    ]
+  },
+  {
+    "-id": "2",
+    "-emotion-type": "sadness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "源海都学愤怒鸟的声音，好像好厉害…"
+    “seg”:”愤怒 厉害”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "还比愤怒鸟射击的动作，我为啥一千啊现在…"
+    “seg”:”愤怒”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "anger",
+        "#text": "海赫还悄悄话了刚才，怎么不是我四千二的时候啊哈哈，悲愤！"
+    “seg”:”悲愤”
+      }
+    ]
+  },
+  {
+    "-id": "3",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "女孩子并不在乎你有没有钱，她在乎的是你会不会发奋努力改变现状；"
+    “seg”:”发奋”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "女孩子并不在乎与你生活一起会遇到困难，她在乎的是你会不会迎难而上；"
+    “seg”:”困难”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "女孩子并不在乎你有多浪漫，她在乎的是能不能从生活的点滴中感受到你的爱；"
+    “seg”:””
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "女孩子并不在乎你现在的境况如何，她在乎的是你能不能让她看到你们的未来。"
+    “seg”:””
+      }
+    ]
+  },
+  {
+    "-id": "4",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "25-27岁年纪还小，叫小生(小剩)；"
+    “seg”:”小生”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "28-30岁已经成熟，叫书生(熟剩)；"
+    “seg”:””
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "31-33岁只能悠着晃着等待机遇，叫优等生(悠等剩)；"
+    “seg”:”机遇”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "34-36岁事业有成钻石男，叫博士生（不是剩）；"
+    “seg”:””
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "N",
+        "#text": "37岁往上感觉彻底被逼成剩男了，尊之为毕业生(逼爷剩)；"
+    “seg”:””
+      },
+      {
+        "-id": "6",
+        "-emotion_tag": "N",
+        "#text": "45岁以后就是超级圣诞老人(剩单老人)啦！"
+    “seg”:””
+      }
+    ]
+  },
+  {
+    "-id": "5",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "《变形金刚3》港澳6月29日上映，大陆REAL.D.3D及IMAX3D上映时间尚不明确。"
+    “seg”:””
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "等吧。"
+    “seg”:””
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "等不及的就去香港百老汇影城吧。"
+    “seg”:”等不及”
+      }
+    ]
+  },
+  {
+    "-id": "6",
+    "-emotion-type": "like",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "Y",
+      "-emotion-1-type": "like",
+      "-emotion-2-type": "none",
+      "#text": "嘿嘿~~最优秀的作品，值得用诚意去尊重~因为我喜欢她的音乐，因为我爱李宇春，所以，我愿意收藏并向周围的人推荐她的每一张心血之作~"
+      “seg”: “优秀 值得 诚意 尊重 喜欢 愿意 推荐”
+    }
+  },
+  {
+    "-id": "7",
+    "-emotion-type": "sadness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "很小很小的时候，我们都曾立志，要做一个怎样怎样的人，都曾天真的以为，只要发奋、努力、好好做人，愿望就可以达到。"
+        “seg”: “立志 天真 发奋 愿望”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "要到很久很久以后才发觉，原来，等待着整治我们的，是命运模子，不管愿不愿意，便套将上来挤压。"
+        “seg”: “原来 愿意”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "我们忍着疼痛在夹缝中畸怪地存活下来，同我们原来的样子，已有着很大的出入。"
+        “seg”: “原来”
+      }
+    ]
+  },
+  {
+    "-id": "8",
+    "-emotion-type": "like",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "人生路上，我们会无数次被自己的决定或碰到的逆境击倒、欺凌甚至碾得粉身碎骨。"
+        “seg”: “欺凌 粉身碎骨”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "使我们觉得自己似乎一文不值。"
+        “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "其实无论发生什么，或将要发生什么，在上帝的眼中，我们永远不会丧失价值。"
+        “seg”: “其实 丧失”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "所以不管在人生路上还是考研路上，面对逆境时我们依然要相信自己是无价之宝、自己是最棒的。"
+        “seg”: “相信 无价之宝”
+      }
+    ]
+  },
+  {
+    "-id": "9",
+    "-emotion-type": "anger",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "如果南中国海的石油开采能让国内油价降低一分钱，我就支持维护南海主权；如果能降低一毛，我愿意多缴税做军费，如果降低一块，我愿意参军。"
+        “seg”: “支持 主权 愿意 愿意”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "anger",
+        "-emotion-2-type": "disgust",
+        "#text": "如果只是维护三大石油集团的利益，跟我有毛关系呢？"
+        “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "anger",
+        "-emotion-2-type": "disgust",
+        "#text": "那些像打了鸡血一样的愤青，你坐飞机他们会给你燃油附加费打八折吗？"
+        “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "10",
+    "-emotion-type": "happiness",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "Y",
+      "-emotion-1-type": "happiness",
+      "-emotion-2-type": "like",
+      "#text": "刚才准高三的体育生和高一届的体育生拔河，太鸡冻了~但忘拍照了，好像明天也来，明天高二的要争气了！！！"
+      “seg”: “争气”
+    }
+  },
+  {
+    "-id": "11",
+    "-emotion-type": "sadness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "大部分男工都外出务工，留下老人、妇女和孩子们，这些留守妇女要把一个天都得顶起来。"
+        “seg”: “起来”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "老人、孩子，衣、食、住、行都要顶起来。"
+        “seg”: “起来”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "不少妇女除了繁重的家务，农活，还要到附近打短工找钱贴补家用。"
+        “seg”: “繁重”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "他们什么活儿都干，背、挑、拉板板车……"
+      “seg”: “”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "他们的劳动强度可想而知。"
+      “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "12",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "宗庆后同学说，了解政治，但不卷入政治。"
+      “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "这样才能保持好政商的关系。"
+      “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "与好几个做生意的人交流，他们的意思大概这样，做生意就好好做生意，参政可以，但不要去议政。"
+      “seg”: “”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "议不好，生意黄了，人进去了，你的员工怎么办？"
+      “seg”: “不好”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "N",
+        "#text": "要有社会责任！"
+      “seg”: “”
+      },
+      {
+        "-id": "6",
+        "-emotion_tag": "N",
+        "#text": "议政让哪些一身轻的个人去做。"
+      “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "13",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "甚好，要鼓励并奖励。"
+      “seg”: “奖励”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "以5年为期，设立奖金，看谁记得多、快、好、狠。"
+      “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "期间不许涉猎别的内容——民族智慧要获得整体提升，兴许先要废掉一批脑袋。"
+      “seg”: “智慧 获得”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "//@瓦当:求加入：）"
+      “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "14",
+    "-emotion-type": "sadness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "like",
+        "#text": "话说大约十年前，十块钱炸肉岗尖一盘，加一瓶啤酒，就是我一顿饱饱的午餐。"
+      “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "surprise",
+        "-emotion-2-type": "none",
+        "#text": "现在呢，图中这寥寥十数根，就是十块钱的肉，算开胃菜么?"
+      “seg”: “开胃”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "anger",
+        "#text": "通胀的猪肉伤不起啊[泪]"
+      “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "15",
+    "-emotion-type": "none",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "N",
+      "#text": "一个人的字体，决定其性格；一个人的话语，决定其修养；一个人的行为，决定其品质；一个人的修为，决定其前途；一个人的轨迹，决定其命运；一个人的态度，决定其心态；一个人的胸怀，决定其仕途；一个人的血液，决定其亲缘。"
+      “seg”: “前途”
+    }
+  },
+  {
+    "-id": "16",
+    "-emotion-type": "disgust",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "//@王久辛:留大量预习与作业,让家长给孩子报铺导班,他们再赚一把钱~~"
+      “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "anger",
+        "#text": "这不仅是隐蔽腐败!"
+      “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "更是对\"义务教育\"的严重反动与挑战!!"
+      “seg”: “义务 教育 严重 反动”
+      }
+    ]
+  },
+  {
+    "-id": "17",
+    "-emotion-type": "like",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "地球保卫战..."
+      “seg”: “保卫”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "如同观看一部真正的大片一样..."
+      “seg”: “真正”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "看到了首回合人类的顽强抵抗..."
+      “seg”: “顽强 抵抗”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "看到了次回合宇宙发挥不折手段的恐怖..."
+      “seg”: “手段 恐怖”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "N",
+        "#text": "人类在搏命..."
+      “seg”: ““
+      },
+      {
+        "-id": "6",
+        "-emotion_tag": "N",
+        "#text": "而宇宙却可以轻而易举地用常规或非常规地方式压迫你..."
+      “seg”: “轻而易举“
+      },
+      {
+        "-id": "7",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "无助..."
+      “seg”: “无助”
+      },
+      {
+        "-id": "8",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "无奈..."
+      “seg”: “无奈”
+      },
+      {
+        "-id": "9",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "绝望..."
+      “seg”: “绝望”
+      },
+      {
+        "-id": "10",
+        "-emotion_tag": "N",
+        "#text": "各种心情涌上心头..."
+      “seg”: “”
+      },
+      {
+        "-id": "11",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "庆幸能看到这样一部上下集的大片..."
+      “seg”: “庆幸”
+      },
+      {
+        "-id": "12",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "相信人类依然会不断地努力去征服的！"
+      “seg”: “相信”
+      }
+    ]
+  },
+  {
+    "-id": "18",
+    "-emotion-type": "like",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "《证据》也后终于要送审了，期待的人们，为之祈祷顺利通过吧！"
+      “seg”: “顺利”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "群众的呼声very importantly！！！"
+      “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "19",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "刚刚听一位长沙的朋友说，这几年长沙的内涝确实少了，而以前几乎是逢雨必涝。"
+      “seg”: “朋友 确实”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "前天的一则新闻说，目前只要是半天50毫米左右的暴雨，长沙几乎无内涝之忧。"
+      “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "今天老天爷加大了力度，以81毫米检查长沙的城市排涝能力..."
+      “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "20",
+    "-emotion-type": "none",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "N",
+      "#text": "杨闭上了他的双眼，这是他在这个世上所做的最后一个动作．他的意识从透明到漆黑，然后从漆黑落入无色彩的深井中，就在此时，在他的某个意识角落，却听到有一个怀念的声音在呼唤着他的名字．宇宙历八零零年的六月一日，凌晨二时五十五分．杨文理的生命在三十三岁的时候终止了．"
+      “seg”: “漆黑 漆黑 怀念”
+    }
+  },
+  {
+    "-id": "21",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "[上海]：1、觉得北京是政府，上海是国企，杭州是ngo，深圳是民企，我是社会闲杂人员。"
+      “seg”: “闲杂人员”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "2、工产艺术化的1933老场坊，艺术工产化的莫干山路M50，艺术餐饮化的田子坊和艺术办公化的8号桥，是否分别对应工业地产、住宅地产、商业地产和城市综合体？"
+      “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "3、设计、房地产、律师、基金的社会价格反映真实价值了嘛？"
+      “seg”: “真实”
+      }
+    ]
+  },
+  {
+    "-id": "22",
+    "-emotion-type": "like",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "Y",
+      "-emotion-1-type": "like",
+      "-emotion-2-type": "none",
+      "#text": "你会不会因为一首歌喜欢上一个人，因为一个人喜欢一个城市；因为一个城市喜欢上一种生活，然后因为一首歌，想念某个人？[月亮]"
+      “seg”: “喜欢 喜欢 喜欢 想念”
+    }
+  },
+  {
+    "-id": "23",
+    "-emotion-type": "like",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "来上海一年了！"
+      “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "学着慢慢适应，慢慢习惯。"
+      “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "我想我更应该学会去爱上这里！"
+      “seg”: “”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "而不是老琢磨，老去怀疑自己。"
+      “seg”: “怀疑”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "2011，找回自信的自己！！"
+      “seg”: “自信“
+      }
+    ]
+  },
+  {
+    "-id": "24",
+    "-emotion-type": "sadness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "有些事情非常让人揪心，为何直接创造产品的收入很低（农民、蓝领、灰领）而间接的（药批、菜批、建材批、酒批等等批们）却赚得盆满钵满呀。"
+      “seg”: 揪心 创造”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "发人深省......"
+      “seg”: “发人深省”
+      }
+    ]
+  },
+  {
+    "-id": "25",
+    "-emotion-type": "disgust",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "Y",
+      "-emotion-1-type": "disgust",
+      "-emotion-2-type": "none",
+      "#text": "美股27日收盘C 39.9900，大家玩玩文字游戏吧，扩股再缩股，反正听你说的那么头头是道，何不预测下一年后股价？"
+      “seg”: “游戏 头头是道”
+    }
+  },
+  {
+    "-id": "26",
+    "-emotion-type": "disgust",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "这忒不会说话了，应该和教育部部长说好，我提案，你敲边。"
+      “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "在农村建1万所大学，既满足村娃就地读大学，又拉动GDP，多好。"
+      “seg”: “满足“
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "//@聂晓晶:看来当年躲过了上山下乡 //@炯翔:这种博物馆的馆长还是在博物馆里供起来当文物算了，极品文物。"
+      “seg”: “起来 极品”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "//@科家2011:脑残不全是你的错，脑残了还要出来丢人现眼就是你不对了。"
+      “seg”: “丢人现眼”
+      }
+    ]
+  },
+  {
+    "-id": "27",
+    "-emotion-type": "happiness",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "Y",
+      "-emotion-1-type": "happiness",
+      "-emotion-2-type": "none",
+      "#text": "活动消息传开，得到佛山市粮有油食品公司的积极响应，1137升的大空间，为咱们的活动换回来近80箱的面条！"
+      “seg”: “消息 积极 响应 ”
+    }
+  },
+  {
+    "-id": "28",
+    "-emotion-type": "sadness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "最近头疼，感觉是每天早睡早起觉少了…"
+      “seg”: “头疼”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "所以今天没事就睡觉…"
+      “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "导致的后果就是…"
+      “seg”: “后果”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "现在还不能睡…"
+      “seg”: “”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "N",
+        "#text": "下回可不这么干了…"
+      “seg”: “”
+      },
+      {
+        "-id": "6",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "[泪]"
+      “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "29",
+    "-emotion-type": "anger",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "anger",
+        "-emotion-2-type": "fear",
+        "#text": "贵州人，大学副教授，因举报贪污腐败而家破人亡，流落街头。"
+      “seg”: “贪污 家破人亡 流落”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "anger",
+        "-emotion-2-type": "none",
+        "#text": "因多次寻求司法帮助未果，现辗转于各地，希望通过广大有善之人的帮助，能够异地审理此案件。"
+      “seg”: “帮助 希望 帮助”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "请大家随手转发，因为您的善举或许正无意中成就一份正义。"
+      “seg”: “善举 成就 正义”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "anger",
+        "-emotion-2-type": "fear",
+        "#text": "(之前的围脖在转发4771次后被和谐，新浪编辑，如果你们再和谐，下一个被迫害的就是你家人)"
+      }
+      “seg”: “和谐 和谐 迫害”
+    ]
+  },
+  {
+    "-id": "30",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "有些话，适合烂在心里，有些痛苦，适合无声无息的忘记。"
+      “seg”: “痛苦”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "当经历过，你成长了，自己知道就好。"
+      “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "很多改变，不需要你己说，别人会看得到。"
+      “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "31",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "碰对了方向，光彩一辈子；"
+      “seg”: “光彩”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "碰对了环境，舒坦一辈子"
+      “seg”: “舒坦”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "碰对了爱好，充实一辈子；"
+      “seg”: “爱好 充实”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "碰对了师长，收获一辈子；"
+      “seg”: “师长”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "N",
+        "#text": "碰对了领导，宽松一辈子"
+      “seg”: “宽松”
+      },
+      {
+        "-id": "6",
+        "-emotion_tag": "N",
+        "#text": "碰对了朋友，乐呵一辈子；"
+      “seg”: “朋友”
+      },
+      {
+        "-id": "7",
+        "-emotion_tag": "N",
+        "#text": "碰上了神仙，还有下辈子!"
+      “seg”: “神仙”
+      }
+    ]
+  },
+  {
+    "-id": "32",
+    "-emotion-type": "happiness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "尼玛！！！"
+      “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "突然感叹还好抓鸡是横屏的有木有！！！！！！！！！"
+      “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "[大笑] [大笑] [大笑] [大笑] [大笑] [大笑] [大笑] [大笑] [大笑] [大笑] [大笑] [大笑] [大笑] [大笑] [大笑] [大笑] [大笑] [大笑]"
+      “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "33",
+    "-emotion-type": "happiness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "恭喜第488位投票的是@Summery_WJ 第588位投票的是@JJFederation-霄雯 第888位投票的是@------平行线----- 以上童鞋获得2011银鹭花生牛奶i唱i音乐城市歌会门票一张！"
+      “seg”: “恭喜”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "私信我留下有效联系方式哦，恭喜恭喜！"
+      “seg”: “有效 恭喜 恭喜”
+      }
+    ]
+  },
+  {
+    "-id": "34",
+    "-emotion-type": "like",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "如果运用合适的搭配方法，通体透明的裤装绝对是扬长避短的最好单品。"
+      “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "层叠穿着和皱褶的遮挡都是不错的选择。"
+      “seg”: “不错”
+      }
+    ]
+  },
+  {
+    "-id": "35",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "阿联酋没有移民政策。"
+      “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "外国人很难入当地国籍。"
+      “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "外国男人肯定无法入当地国籍。"
+      “seg”: “肯定”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "外国女人只有嫁给当地男人才能入籍。"
+      “seg”: “”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "N",
+        "#text": "当地男人合法可娶四个老婆，大老婆必须是本国人。"
+      “seg”: “必须”
+      },
+      {
+        "-id": "6",
+        "-emotion_tag": "N",
+        "#text": "如果在当地出生，如果爷爷不是阿联酋国籍，也是入不了籍的。"
+      “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "36",
+    "-emotion-type": "sadness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "fear",
+        "-emotion-2-type": "disgust",
+        "#text": "好热，昨晚没睡好，做了个噩梦，还好会醒过来，梦里痛苦挣扎，以为挣扎不过来，吓死我！"
+      “seg”: “噩梦 痛苦”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "醒来就没再睡着了，全身都是汗"
+      “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "37",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "图书下乡恳请作家支持！"
+      “seg”: “支持”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "图书定价水平低，地级市以下零售门店收缩，读者买书很不方便，且热销书盗版猖獗。"
+      “seg”: “猖獗”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "我每年都想推动当当网在地级市以下增加服务，增加推广，但每每掉进价格战。"
+      “seg”: “”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "为此，呼吁作者和出版商对俺们在地级市以下的销售给予3%返点，呼吁政府对所有书店在此销售免税。"
+      “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "38",
+    "-emotion-type": "anger",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "anger",
+        "-emotion-2-type": "none",
+        "#text": "钱是小事，把老师教坏了[抓狂] 钱是小事，把老师教坏了[抓狂] //@leithnannan：教育产业化哦，苦了爹妈的银子哟 //@王久辛:[赞] [赞] //@龙音九天：作为老师，严重关注，严重支持！！！！"
+      “seg”: “教育 严重 严重 支持”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "anger",
+        "-emotion-2-type": "none",
+        "#text": "长此以往，中国的教育恐怕没有明天。"
+      “seg”: “教育“
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "其实问题不在教师，也不完全在家长，而在于教育利益集团的蛊惑煽动"
+      “seg”: “其实 教育 蛊惑”
+      }
+    ]
+  },
+  {
+    "-id": "39",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "也不记得有多少年没有睡前读物这东西了，今天默默地重拾这样的习惯…"
+      “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "在夜深人静之时，合上书闭上眼翻个身，却无论如何都不能入睡…"
+      “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "这样的夜里想念谁或思考什么才是合理的，我对自己说…"
+      “seg”: “想念 合理”
+      }
+    ]
+  },
+  {
+    "-id": "40",
+    "-emotion-type": "like",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "当我们吃着零食时，有没有想过爸妈是否在家吃着干馍干菜？"
+      “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "当我们报怨冷时，有没有想过爸妈是否寒冷？"
+      “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "当我们烫发染发时，有没有想过爸妈的白发？"
+      “seg”: “”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "当我们买一件件衣服时，有没有想过帮爸妈买上一件？"
+      “seg”: “”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "当我们美容时有没有想过他们满脸的皱纹？……"
+      “seg”: “皱纹”
+      },
+      {
+        "-id": "6",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "他们不怕苦，因为孩子永远是他们的动力！"
+      “seg”: “”
+      },
+      {
+        "-id": "7",
+        "-emotion_tag": "N",
+        "#text": "有孝心的请转发！"
+     “seg”: “孝心”
+      }
+    ]
+  },
+  {
+    "-id": "41",
+    "-emotion-type": "sadness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "如果我离去，永远地永远地，消失在你的世界里，你会不会在某个清醒的午后想我想到心痛？"
+      “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "如果有一天，在街上看到我的手被别人紧紧地握着，你会不会 冲动地告诉我你依然爱我？"
+      “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "如果有一天我要死掉，临死前就是想看你一眼，你会不会不顾一切地回到我身边？"
+      “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "42",
+    "-emotion-type": "fear",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "surprise",
+        "-emotion-2-type": "none",
+        "#text": "一出门就被凶狗狂叫尾随近400米是怎么回事...?"
+      “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "fear",
+        "-emotion-2-type": "none",
+        "#text": "害怕死了还要装镇定缓步走..."
+      “seg”: “害怕 镇定”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "anger",
+        "-emotion-2-type": "none",
+        "#text": "[泪] 睁大你的狗眼好吗!!"
+      “seg”: “”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "anger",
+        "-emotion-2-type": "none",
+        "#text": "我的脸上不是写着 死好人 三个字吗??!! [抓狂]"
+      “seg”: “好人”
+      }
+    ]
+  },
+  {
+    "-id": "43",
+    "-emotion-type": "sadness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "等待不苦，苦的是，没有希望的等待……"
+    “seg”: “希望”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "曾经，愿意不顾一切的等你，愿意随时随地陪你，愿意在你身后默默的看你，为你的快乐而快乐，为你的悲伤而悲伤，尽管，那些情绪，与我无关……"
+    “seg”: “愿意 愿意 随时随地 愿意 身后 快乐 快乐 悲伤 悲伤 情绪”
+      }
+    ]
+  },
+  {
+    "-id": "44",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "做企业，做公司，那是工作，是经营，竞争这么激烈，难免时运不济，失败无可厚非；"
+    “seg”: “激烈 不济 失败 无可厚非”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "然而做人，就是一撇一捺，简单，但是需要相互的支撑。"
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "做人，即使卑微，也需顶天立地；做人，交朋友，在于坦诚。"
+    “seg”: “卑微 顶天立地 朋友”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "勾心斗角，不是交朋友。"
+    “seg”: “勾心斗角”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "N",
+        "#text": "等俺们到了退休之时，最大的财富，或许不是金钱房产，而是不用想起却不会忘记的朋友"
+    “seg”: “朋友”
+      }
+    ]
+  },
+  {
+    "-id": "45",
+    "-emotion-type": "sadness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "DELL D600,检测发现在D盘的分区中有NNNNN多坏道..."
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "郁闷了不要了这个分区吗?"
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "硬盘不够用咧!"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "46",
+    "-emotion-type": "sadness",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "Y",
+      "-emotion-1-type": "sadness",
+      "-emotion-2-type": "none",
+      "#text": "看这张有多瘦，82kg,真的开始要增肥了，可是怎么吃都不胖，（想要减肥的人儿来问我减肥的秘诀吧），但是你要告诉我增肥的秘诀，因为我整天在为增肥而烦恼[可怜]"
+    “seg”: “烦恼”
+    }
+  },
+  {
+    "-id": "47",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "做一个淡淡的女子，不浮不躁，不争不抢，不去计较浮华之事，不是不追求，只是不去强求。"
+    “seg”: “浮华 追求 强求”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "淡然地过着自己的生活，不要轰轰烈烈，只求安安心心。"
+    “seg”: “淡然 轰轰烈烈”
+      }
+    ]
+  },
+  {
+    "-id": "48",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "饮茶养生包括养身和养心两个层次。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "养身，是指饮茶能满足人们的生理需要，如解渴、提神、祛火、消食等。"
+    “seg”: “满足 解渴”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "茶的自然物质属性能解决人们的养身需要。"
+    “seg”: “自然 解决”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "养心，是指通过执行茶道，达到悦目、静心、习礼、抒情和悟道的目的。"
+    “seg”: “悦目 静心”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "N",
+        "#text": "茶道的精神文化属性恰能解决人们的养心需求。"
+    “seg”: “精神 解决”
+      }
+    ]
+  },
+  {
+    "-id": "49",
+    "-emotion-type": "anger",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "anger",
+        "#text": "焚烧秸秆、垃圾的味道已经持续好几天了，最近几天早晨就在这种味道中醒来，真是令人不爽。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "anger",
+        "-emotion-2-type": "none",
+        "#text": "明天再这样，只有请教科教卫的同志，这到底是什么味道，是真的露天焚烧垃圾的味道吗？"
+    “seg”: “请教”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "anger",
+        "-emotion-2-type": "none",
+        "#text": "是他们趁着夜色的掩护焚烧垃圾吗？"
+    “seg”: “”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "如果是。。。"
+    “seg”: “”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "anger",
+        "-emotion-2-type": "disgust",
+        "#text": "是不是可以请有关同志虚拟关心一下。。。"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "50",
+    "-emotion-type": "disgust",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "Y",
+      "-emotion-1-type": "disgust",
+      "-emotion-2-type": "none",
+      "#text": "众多只有这一套房的业主向物业求助，物业无奈，居然向110和城管报警，对方值班的都说所有人员都去协助体育中心的大型活动了。[晕]"
+    “seg”: “无奈 大型”
+    }
+  },
+  {
+    "-id": "51",
+    "-emotion-type": "happiness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "发张一年前得照片,弄瞎你的眼."
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "[晕][晕][晕][晕] 其实我还是刚出生得婴儿啦[害羞] [害羞] [害羞] ,[六一快乐] 各位六一快乐[六一快乐] !"
+    “seg”: “其实 快乐”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "[奥特曼] [奥特曼] [奥特曼] [奥特曼]"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "52",
+    "-emotion-type": "like",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "当人们认为四分钟跑一英里是人类极限时，1954年5月，班尼斯特用3分59秒4跑完了这个距离，他如何做到的？"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "他说：＂打破常规，用不同的训练方式＂，"
+    “seg”: “打破”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "如果他认同了前面的观点，就不可能有后面的成果，"
+    “seg”: “成果”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "＂心智模式＂的突破是他成功的关键。"
+    “seg”: “突破 成功”
+      }
+    ]
+  },
+  {
+    "-id": "53",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "//@陈有西律师在上海：违法无极限,根源在上面."
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "全国人大法工委已经明确发布说明,新法优于旧法,以律师法规定为准."
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "但是公安部的权力明显高过法工委."
+    “seg”: “权力”
+      }
+    ]
+  },
+  {
+    "-id": "54",
+    "-emotion-type": "like",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "Y",
+      "-emotion-1-type": "like",
+      "-emotion-2-type": "none",
+      "#text": "官方cafe更新钟勋生日祝福1P ：崔钟勋，在你的这第22年里 希望这年里你可以做自己最想做的事 队长这个位置 怎么看都不错 但又怎么看都是累的 这位置好像是要付出得更多 虽然累 但请一直努力吧 因为身后有PRIMADONNA 真心祝你生日快乐"
+    “seg”: “祝福 希望 不错 身后 真心 快乐”
+    }
+  },
+  {
+    "-id": "55",
+    "-emotion-type": "happiness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "啊啊啊啊啊啊啊啊啊啊"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "斗俊sama........你这样俺们受不住啊..."
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "解扣子解扣子，，，表情表情"
+    “seg”: “”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "自动脑内中........."
+    “seg”: “”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "N",
+        "#text": "猴急样子"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "56",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "爱，有时候不需要山盟海誓的承诺，但她一定需要细致入微的关怀和问候；"
+    “seg”: “山盟海誓 一定”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "爱，有时候不需要梁祝化蝶的悲壮，但她一定需要心有灵犀的默契与情投意合；"
+    “seg”: “悲壮 一定 默契 情投意合”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "爱，有时候不需要雄飞雌从的追随，但她一定需要相濡以沫的支持与理解。"
+    “seg”: “一定 相濡以沫 支持 理解”
+      }
+    ]
+  },
+  {
+    "-id": "57",
+    "-emotion-type": "disgust",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "原来订的航班取消了，而且说取消就取消了！"
+    “seg”: “原来”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "anger",
+        "-emotion-2-type": "none",
+        "#text": "伤不起的国航！"
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "还好一兄弟帮忙，挤上了前一班，从办公室急奔机场，现在要登机了"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "58",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "世界上有两件事最难：一是把自己的思想装进别人的脑袋里；二是把别人的钱装进自己的口袋里。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "前者成功了叫老师，后者成功了叫老板，两者都成功了叫老婆。"
+    “seg”: “成功 成功 成功”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "跟老师斗是不想学了，跟老板斗是不想混了，跟老婆斗是不想活了!"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "59",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "最新消息，北方图书城3月16日搬家，搬到青年公园南门附近，距离原北图没多远，可能会少一点，但只是过渡。"
+    “seg”: “最新 消息”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "2013年，在原北方图书城地址会建一个现代化的文化体验广场。"
+    “seg”: “现代化”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "北图仍然在迁回原地址。"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "60",
+    "-emotion-type": "sadness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "曾经有很多珍贵的照片，我把他们存在了一个组装的移动硬盘上，终于在某天，硬盘挂了……"
+      },
+    “seg”: “珍贵”
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "今天无意中看到了两张当年幸存下来的照片，一瞬间感慨万千！"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "61",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "今天是6月29日星期三，农历五月廿八。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "白天多云，最高温27℃，东风，微风；夜间阵雨，最低温20℃，南风，微风。"
+    “seg”: “东风”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "紫外线强度较弱，建议出门前涂擦SPF在12-15之间、PA+的防晒护肤品。"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "62",
+    "-emotion-type": "disgust",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "一开始挺喜杨澜，后来加了杨澜微博。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "发现杨澜故作知性，其实就是满身铜臭味的商人！"
+    “seg”: “其实 铜臭”
+
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "一天到晚就是钱钱钱，要么虚荣的要死！"
+    “seg”: “虚荣”
+      }
+    ]
+  },
+  {
+    "-id": "63",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "某老中医说：相思瞌睡少，暗恋心不老；调情解烦恼，花心练大脑；偷情心脏好，泡妞抗衰老。"
+    “seg”: “相思 调情 烦恼 花心 偷情 衰老”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "——信不信由你。"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "64",
+    "-emotion-type": "anger",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "anger",
+        "-emotion-2-type": "none",
+        "#text": "和乐清看守所警号035654的警察大吵一架。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "让他拿出不让见的法律依据。"
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "拿不出。"
+    “seg”: “”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "旁边一个警察说，也没有让见的依据。"
+    “seg”: “”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "N",
+        "#text": "我说，你连基本的行政法常识都不懂。"
+    “seg”: “”
+      },
+      {
+        "-id": "6",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "anger",
+        "-emotion-2-type": "disgust",
+        "#text": "你们每个律师来见，都去核实吗？"
+    “seg”: “”
+      },
+      {
+        "-id": "7",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "anger",
+        "-emotion-2-type": "none",
+        "#text": "做坏事的人以后天打雷劈。"
+    “seg”: “坏事”
+      }
+    ]
+  },
+  {
+    "-id": "65",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "我舍友买了狗粮，天天喂他，不过我们要放假了没人喂他，求好心人士收养……"
+    “seg”: “好心”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "还有小狗有皮肤病，想治好不知道怎么把他带过去，有兽医愿意帮忙吗，我们出钱……"
+    “seg”: “愿意”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "大家帮忙转…"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "66",
+    "-emotion-type": "disgust",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "Y",
+      "-emotion-1-type": "disgust",
+      "-emotion-2-type": "none",
+      "#text": "一财网的同志们看到请转达一下，你们现在底层编辑发的、改写的稿子有很多不实报道，请注意清查，否则哪天被哪家机构盯上了，死都不知道怎么死的。"
+    “seg”: “清查”
+    }
+  },
+  {
+    "-id": "67",
+    "-emotion-type": "surprise",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "surprise",
+        "-emotion-2-type": "none",
+        "#text": "老同事们再相见，令我目瞪口呆的是一个个均完美大瘦身，变化之大让人不敢乱认，连打招呼都得经人不断确认不断提醒。"
+    “seg”: “目瞪口呆 完美”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "surprise",
+        "-emotion-2-type": "none",
+        "#text": "唉，蛋定，蛋定！"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "68",
+    "-emotion-type": "sadness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "67/2011 想起和你聊天 想起你笑的样子 想起你的人叫.."
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "虽然不是永远的离别却难再相聚 只希望你知道我还在想着你 亲爱的~"
+    “seg”: “离别 希望”
+      }
+    ]
+  },
+  {
+    "-id": "69",
+    "-emotion-type": "happiness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "去年6月24日下午4点，首次考倒桩，一场突降的暴雨，让我等到深夜11点才以当天最后一名考生的身份考试，结果没过。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "期间由于世界杯，亚运会，CBA的赛事没去考。"
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "上个月，得以约考，无奈居住证过期，未果。"
+    “seg”: “无奈”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "今天情景和第一次是如此的相似，暴雨再次中断考试进程，但最终过了！"
+    “seg”: “”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "一年了，真TMD内牛满面啊！"
+    “seg”: “TMD”
+      }
+    ]
+  },
+  {
+    "-id": "70",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "福州新闻网讯 城镇老年居民养老保险将在四城区试点，民办教师社会保障也将纳入统筹考虑。"
+    “seg”: “保障”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "7日上午，副省长、市长苏增添主持召开第6次市政府常务会议，审议《福州市城镇老年居民养老保险试点办法》《关于促进福州市民办教育发展的若干意见》《福州市市长质量奖管理办法》。"
+    “seg”: “促进 教育 发展”
+      }
+    ]
+  },
+  {
+    "-id": "71",
+    "-emotion-type": "none",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "N",
+      "#text": "大学资源计划（URP）管理思想的前两条：＂以人为本的管理理念＂、＂以信息流为核心的管理模式＂，看来在3.0时代需要进一步深化与挖掘。"
+    “seg”: “”
+    }
+  },
+  {
+    "-id": "72",
+    "-emotion-type": "surprise",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "surprise",
+        "-emotion-2-type": "none",
+        "#text": "飞屋被带到了现实中了！"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "并且创造了一项新的最大簇气球飞行世界纪录（约一小时）。"
+    “seg”: “创造”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "一大早看到这个有没有很激动呢~"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "73",
+    "-emotion-type": "anger",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "Y",
+      "-emotion-1-type": "anger",
+      "-emotion-2-type": "disgust",
+      "#text": "我只关心做的是不是坏事,写些狗屁不通的文章供有关部门强奸网友,做这种事的人就该被人唾骂,管他是出于什么理由"
+    “seg”: “坏事 狗屁 强奸 唾骂”
+    }
+  },
+  {
+    "-id": "74",
+    "-emotion-type": "happiness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "like",
+        "#text": "爱大家！"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "真的.."
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "特别爱！！"
+    “seg”: “”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "本想聊更多.."
+    “seg”: “”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "N",
+        "#text": "无奈通向微访谈的大门已然关闭！"
+    “seg”: “无奈”
+      },
+      {
+        "-id": "6",
+        "-emotion_tag": "N",
+        "#text": "这样吧，大家还想聊的话.."
+    “seg”: “”
+      },
+      {
+        "-id": "7",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "明天下午3:00我们中央电视台（非常6+1）微访见[亲亲]"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "75",
+    "-emotion-type": "sadness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "{老男人散文} 吹过塞纳河的风，很凉;桥上流浪艺人的手风琴声，忧伤;同心锁上恋人的名字，一两行。"
+    “seg”: “忧伤”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "他们如今还在一起吗？"
+    “seg”: “如今”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "这年头还有真爱吗？"
+    “seg”: “”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "我不禁想……"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "76",
+    "-emotion-type": "like",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "高考日，祝同学们考试顺利！"
+    “seg”: “顺利”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "[呵呵] 高考是我们苦读的结束，也是我们脱离被动学习状态，学会自学，进入全新奋斗的开始！"
+    “seg”: “被动 学习 全新 奋斗”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "毕竟我们心中真正理想的职业，不是高考所能左右的！"
+    “seg”: “真正”
+      }
+    ]
+  },
+  {
+    "-id": "77",
+    "-emotion-type": "disgust",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "各种随时随地..."
+    “seg”: “随时随地”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "没网就各种焦虑..."
+    “seg”: “焦虑”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "我好想戒掉微博..."
+    “seg”: “”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "戒掉网..."
+    “seg”: “”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "N",
+        "#text": "深知已中毒..."
+    “seg”: “”
+      },
+      {
+        "-id": "6",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "如果有可能我真要戒了..."
+    “seg”: “”
+      },
+      {
+        "-id": "7",
+        "-emotion_tag": "N",
+        "#text": "但......"
+    “seg”: “”
+      },
+      {
+        "-id": "8",
+        "-emotion_tag": "N",
+        "#text": "还是先睡觉吧[偷笑]跟夜猫说晚安..."
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "78",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "绩效考评与KPI指标的设定，最大的好处是用可量化的评价指标对企业和员工的表现进行评估和考核。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "建立这样的绩效评估体系是许多中小企业摆脱人治，走向科学化与标准化管理的前提。"
+    “seg”: “摆脱 标准化”
+      }
+    ]
+  },
+  {
+    "-id": "79",
+    "-emotion-type": "sadness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "本来应该很高兴的仙女们的好节日 。"
+    “seg”: “高兴 仙女”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "却收到几个感觉不太妙的消息。"
+    “seg”: “消息”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "心里莫名的就很难受。"
+    “seg”: “难受”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "很不舒服！"
+    “seg”: “舒服”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "为什么那么多美丽的爱情童话，都这么一点点的消失----难道这个世界，可以有点责任心，有点宽容和可以历经风雨的爱情就不能多存在点吗？！"
+    “seg”: “美丽 爱情 宽容 爱情”
+      },
+      {
+        "-id": "6",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "sadness",
+        "-emotion-2-type": "none",
+        "#text": "怎么总是有那么多被伤害的人啊---我好心痛--无语了"
+    “seg”: “伤害”
+      }
+    ]
+  },
+  {
+    "-id": "80",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "秋风清，秋月明，落叶聚还(huan)散，寒鸦栖复惊。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "相亲相见知何日，此时此夜难为情；入我相思门，知我相思苦，长相思兮长相忆，短相思兮无穷极，早知如此绊人心，还(huan)如当初不相识."
+    “seg”: “难为情 相思 相思 相思 相思 人心”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "这首词是典型的悲秋之作，诗人奇丽的想象和对自己内心的完美刻画让整首诗显的凄婉动人"
+    “seg”: “完美 凄婉 动人”
+      }
+    ]
+  },
+  {
+    "-id": "81",
+    "-emotion-type": "disgust",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "有钱没钱，有老婆没老婆，出来乱搞，得夸着，得哄着人对吧，好好一事，非弄得奸夫淫妇似的。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "你就大大方方说，你漂亮，你性感，我喜欢，我想操。"
+    “seg”: “大大方方 漂亮 性感 喜欢”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "嘴甜鸡巴不亏~"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "82",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "国家7年前就已明令禁止修建赛车场和高尔夫场，但不少地方政府基于经济利益，仍用体育公园、绿化用地等名义「暗建」，7年来全国新建了400多个高球场，获正式审批的高球场仅有10个左右，占全国近600个高球场的1%多一点。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "过去7年来，赛车场只多建了一个鄂尔多斯赛道。"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "83",
+    "-emotion-type": "none",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "N",
+      "#text": "为庆贺普陀山道生长老90寿诞，由广东汕头籍佛友长荣居士等一批热心居士发起、黄汝波居士执笔编著的《普陀佛缘》一书，近日由香港成达出版社出版发行，并通过各种渠道向各大佛友结缘发送。"
+    “seg”: “庆贺 热心 结缘”
+    }
+  },
+  {
+    "-id": "84",
+    "-emotion-type": "disgust",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "每天上午睡觉的时候和下午上网的时候..."
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "家里响起那种高级饭店或者商场的优雅钢琴声或是无趣的练习曲......................."
+    “seg”: “高级 优雅”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "哇靠谁能明白我的心情啊！！！！！！！！！！！！"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "85",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "你的时间花在抱怨、找理由、推卸责任上，你就是个消极的人，你的时间花在学习充电、找方法、找措施上，你就是个高效积极的人。"
+    “seg”: “抱怨 推卸 消极 学习 高效 积极”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "你的时间是怎样花掉的，你就是怎样的人。"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "86",
+    "-emotion-type": "happiness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "在BOOKING.COM上选瑞士的酒店，看到眼花，先筛选出几家让老板选吧。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "这会儿他还携同家属及同事们在天上飞呢[飞机] ，些许明天下午能见到他。"
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "[思考] 我来七岁叫了，安~[月亮]"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "87",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "●《杨家将》　于仁泰导演/黄百鸣监制7月底8月初开拍，古天乐演杨大郎。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "●《十二生肖》　成龙导演/唐季礼监制　5月开拍，成龙主演。"
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "●《狄仁杰前传》徐克导演/施南生监制9月开拍，李冰冰、邓超、刘德华有望出演。"
+    “seg”: “”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "●新片(未定名)冯小刚导演9月或10月开拍。"
+    “seg”: “”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "N",
+        "#text": "有可能是关于朝鲜战争的故事。"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "88",
+    "-emotion-type": "like",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "有饭发短信，金希澈念：我经常吃饺子只吃陷，吃饭也只吃肉，我这样很乖么？"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "挑自己喜欢的吃有罪么？"
+    “seg”: “喜欢”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "怎么样这位是四次元么？"
+    “seg”: “”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "金贤重：这位不是四次元……"
+    “seg”: “”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "N",
+        "#text": "是偏食症（额……）"
+    “seg”: “偏食”
+      }
+    ]
+  },
+  {
+    "-id": "89",
+    "-emotion-type": "none",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "N",
+      "#text": "晚饭：茭白雪菜肉片，清炒米苋，窝蛋豆腐羹，成本茭白2+雪菜1+米苋2.5+鸡蛋0.7+豆腐1.5+肉片4，总共12；再配上一壶铁观音[酷]"
+    “seg”: “”
+    }
+  },
+  {
+    "-id": "90",
+    "-emotion-type": "disgust",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "surprise",
+        "-emotion-2-type": "like",
+        "#text": "我承认我很out，但是老爷子也太潮了吧- -"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "surprise",
+        "-emotion-2-type": "like",
+        "#text": "囧~那天看到年轻人在玩街攀（自行车），就屁颠屁颠的跑过去学了一下午，说要学从楼梯上冲下去~~- -"
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "然后，这阵子看到downhill（从山上自由落体的一种单车运动）~~-"
+    “seg”: “”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "surprise",
+        "-emotion-2-type": "none",
+        "#text": "-我勒个去~~刚好又看到一部downhill的车~~"
+    “seg”: “”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "现在在琢磨着是不是玩玩= -=[生病]"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "91",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "1948年6月，中共繪製的《人民解放軍大反攻一周年形勢圖》。"
+    “seg”: “解放”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "而早在抗戰初期的1937年，中共借抗日擴編八路軍與新四軍的機會，軍隊迅速膨脹壯大，1937年由原先僅3萬人的隊伍，當年便擴至9.2萬人。"
+    “seg”: “迅速”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "1938年則成倍擴至18.1萬人。"
+    “seg”: “”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "1939年擴至32萬人。"
+    “seg”: “”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "N",
+        "#text": "1940年擴至50萬人。"
+    “seg”: “”
+      },
+      {
+        "-id": "6",
+        "-emotion_tag": "N",
+        "#text": "1945年抗戰結束時，已擴至91萬人。"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "92",
+    "-emotion-type": "happiness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "综艺节目《香港赤裸女厨神》2月27日探班。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "主持人港姐张净思真空上阵，为节目《冰火厨房》到餐厅拍摄外景，全身赤裸只穿透视围裙下厨。"
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "——多么称职的女主持人，多么红火的娱乐节目"
+    “seg”: “称职 红火 娱乐”
+      }
+    ]
+  },
+  {
+    "-id": "93",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "曾和一位朋友聊天，他曾提到中国与越南的战争时，云南某县出现近20％瘸腿人口。"
+    “seg”: “朋友
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "越南从美国人那里学到了战争经济学！"
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "他们埋设的大量轻型地雷不以杀死对手为目的，而是专门炸断人腿。"
+    “seg”: “对手”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "伤残将产生双重效应，一是为对方制造大规模的财政负担，削弱对方战争潜力；二是满大街的断腿人将产生严重的心理恐吓作用"
+    “seg”: “潜力 严重 恐吓”
+      }
+    ]
+  },
+  {
+    "-id": "94",
+    "-emotion-type": "happiness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "这个..."
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "会被和谐不？"
+    “seg”: “和谐”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "睡觉了，睡前最后给各位童鞋娱乐一下，这张GIF该有喜感了，反正我是笑喷了。。。。"
+    “seg”: “娱乐”
+      }
+    ]
+  },
+  {
+    "-id": "95",
+    "-emotion-type": "happiness",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "Y",
+      "-emotion-1-type": "happiness",
+      "-emotion-2-type": "none",
+      "#text": "经年之后，我们能偶然遇见，在属于你们的长乐路，韩庚庚牵着小奶奶与我擦肩而过，我想那时我是幸福的。[织]"
+  “seg”: “幸福”
+    }
+  },
+  {
+    "-id": "96",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "五年前我只身一人来到北京参加艺术类招生考试，不漂亮不会唱歌跳舞，没有关系背景没有钱，住在烟袋斜街一家小旅馆，杀价杀到25块钱一晚。"
+        “seg”: “漂亮 杀价”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "那一年我拿到了上戏国戏传媒大学军艺前几名的合格证。"
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "后来我经常对我家乡小城怀有梦想的考生说：艺考是我见过的最公平的考试，在艺术的门槛前，大家都是平等的。"
+    “seg”: “公平”
+      }
+    ]
+  },
+  {
+    "-id": "97",
+    "-emotion-type": "disgust",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "今年高考作文题披露，巨无聊。"
+    “seg”: “无聊”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "虚假、做做、装逼，一无是处。"
+    “seg”: “虚假 一无是处”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "能不能出点富于新意、能多少融入个人生活的题目？"
+    “seg”: “新意”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "我记得大约15年前，台湾的高考作文题是《生活中的苦涩与甘美》。"
+    “seg”: “苦涩 甘美”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "N",
+        "#text": "譬如，《我在马勒戈壁的青春放浪》、《动物凶猛的饮食生活》啥的。"
+    “seg”: “青春 放浪”
+      }
+    ]
+  },
+  {
+    "-id": "98",
+    "-emotion-type": "none",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "N",
+      "#text": "安徽省淮南市田家庵区泉山路泉山村 邮政编码查询 - 邮编库 泉山路泉山村位于安徽省淮南市田家庵区，"
+    “seg”: “”
+    }
+  },
+  {
+    "-id": "99",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "据全国人大网公布的声明显示，为期一个多月的个税法修正案(草案)征集意见将在5月31日结束。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "截止发稿，征求意见数已超23万条，创人大单项立法征求意见数之最。"
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "关于个税改革的议论，主要集中在个税起征点上调到3000元是否合理，对高收入者的征税力度够不够，要不要实行单一税率等。"
+    “seg”: “改革 合理 单一”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "(中新网财经频道)"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "100",
+    "-emotion-type": "happiness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "不管遇到怎样的艰难，能否挺过去，取决于对自己的信心。"
+    “seg”: “艰难 信心”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "换个角度看问题，结果可能就会大不一样："
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "毛毛虫所谓的世界末日，恰恰就是蝴蝶破茧而出的充满阳光的时刻。"
+    “seg”: “末日 恰恰 阳光”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "六一快乐哟！[月亮]"
+    “seg”: “快乐”
+      }
+    ]
+  },
+  {
+    "-id": "101",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "从即日起，本博会不定期普及一些有关医疗保健方面的小知识，希望对大家有所助益！"
+    “seg”: “希望”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "今天由于时间有限，先科普一点有关糖尿病的误区：1、西瓜含糖量很少，两餐之间可以吃一点；2、火龙果含糖量很高，最好不要再吃了！"
+    “seg”: “最好”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "如果你身边有糖尿病人，请提醒他！"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "102",
+    "-emotion-type": "none",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "N",
+      "#text": "在中共中央政治局委员、中央书记处书记、中央组织部部长李源潮，缅甸副总统吴丁昂敏乌的共同见证下，在缅甸首都内比都总统府，中国商飞公司与缅甸航空公司签署了2架ARJ21-700新支线飞机销售协议，中国商飞公司总经理金壮龙与缅甸航空公司董事长丁茂吞分别代表双方在协议书上签字。"
+    “seg”: “”
+    }
+  },
+  {
+    "-id": "103",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "玩游戏的都知道NPC（Non-Player-Controlled Character ）是系统自动生成，非玩家控制的游戏角色。"
+    “seg”: “游戏 游戏”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "有些NPC角色会卖东西，有些会与你对话。"
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "其行为都由系统自动设定，这些NPC没有思想思维，演员而已。"
+    “seg”: “”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "巧合的是：全国人民代表大会，英文缩写是NPC"
+    “seg”: “巧合”
+      }
+    ]
+  },
+  {
+    "-id": "104",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "一个人不成功一定有其根本原因，特别是处处碰壁，屡战屡败的人。"
+    “seg”: “成功 一定 根本”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "一定有突出的缺点或弱点。"
+    “seg”: “一定 缺点 弱点”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "而一个成功过的人通常是因为方法思路对头，能力匹配而成功，所以他们在别的领域也会更容易成功。"
+    “seg”: “成功 对头 匹配 成功 成功”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "所以创业者，屡战屡败并不值得炫耀。"
+    “seg”: “值得 炫耀”
+      }
+    ]
+  },
+  {
+    "-id": "105",
+    "-emotion-type": "happiness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "今天下雨下的好好大的~~我穿着布鞋，还有长裤牛仔。。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "嗯~撑着伞。"
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "看见水坑就去踩踩。。"
+    “seg”: “”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "看到马路上水片就去跳跳~~哈哈。。"
+    “seg”: “”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "别人的裤子都被我溅湿了~~很有成就感！！"
+    “seg”: “”
+      },
+      {
+        "-id": "6",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "很开心啊~~~[鼓掌] [鼓掌] （小小鄙视那些咒骂下雨的人儿们啊~~~[挖鼻屎] ）"
+    “seg”: “开心 鄙视 咒骂”
+      }
+    ]
+  },
+  {
+    "-id": "106",
+    "-emotion-type": "like",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "Vans x MadeMe Camryn 合作的Vans十字补丁限量版。。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "小笨穿的可美了 准备美代一双 各位觉得美貌不？？"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "107",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "温总理说，推广医生多点执业，鼓励医生开诊所。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "要实现这项改革关键在人事制度的改革，配套政策的合理性和可操作性，调节好医生与雇主的关系，调节好单位人和自由人的关系，调节好政府补偿与自主创收的问题。"
+    “seg”: “改革 人事 改革 补偿 自主 创收”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "如果挂公立医院牌赚自己的钱，这条改革路将越走越混乱！"
+    “seg”: “改革”
+      }
+    ]
+  },
+  {
+    "-id": "108",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "建议红会学学营销学的品牌管理知识，建立一个品牌，10年未必行；毁掉一个品牌一个事件足以。"
+    “seg”: “未必”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "以红会目前的状况，入伍根本转变，很难再取得人们的信任了。"
+    “seg”: “根本 取得 信任”
+      }
+    ]
+  },
+  {
+    "-id": "109",
+    "-emotion-type": "disgust",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "我觉得人有时候就是贱！"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "结婚前不管喜欢不喜欢，不管贵与贱，不管有用没用，就为图当时心里美一下，统统不拒绝！"
+    “seg”: “喜欢 喜欢 没用”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "结婚后我就变得矛盾，又期待每个节日有惊喜，又担心他买的东西很不实用，所以从结婚后我拒绝收他买的花儿！"
+    “seg”: “惊喜 担心”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "为以防万一，与我有关的节日他送什么东西都会问我要不要，这就失去很多浪漫的东西"
+    “seg”: “失去”
+      }
+    ]
+  },
+  {
+    "-id": "110",
+    "-emotion-type": "happiness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "老二又带我们出去喝酒吃饭唱歌..."
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "玩到现在才回来..."
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "经常有人请吃请喝请玩也不错..."
+    “seg”: “吃请 不错”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "但我想知道老二到底是多有钱啊..."
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "111",
+    "-emotion-type": "happiness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "其实....要先看爆的话可以来我空间单独看.....里面有..."
+    “seg”: “其实”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "[偷笑] 这几天吧里是玩爆上瘾了...."
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "曼静就看你们了......"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "112",
+    "-emotion-type": "disgust",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "从外资被赶出去，从中国电视在2001年一夜之间把民营资本借有线无线合并赶出去，从今天又一夜间出来无数广播电视台，我们看到的是折腾。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "中国电视被政客们折腾来折腾去，结果是娱乐至死，电视做到没有质量，庸俗不堪。"
+    “seg”: “政客 娱乐 庸俗 不堪”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "但凡了解点电视的人，应该出来反对这场闹剧了。"
+    “seg”: “闹剧”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "该收场了，某些想借电视达到政治目的的"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "113",
+    "-emotion-type": "happiness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "26匆匆离校，2728和龙在一起。"
+    “seg”: “匆匆”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "这几天过得很精彩，各种精彩～"
+    “seg”: “精彩 精彩”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "like",
+        "#text": "爸爸妈妈我爱你们，阿姐姐夫谢谢你们，想你丹，爱你龙，感谢所有，超幸福～"
+    “seg”: “感谢 幸福”
+      }
+    ]
+  },
+  {
+    "-id": "114",
+    "-emotion-type": "happiness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "如果按农历来算，今天是我的生日。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "妈妈和爸爸习惯按农历过生日，所以我知道他们今天肯定做了一大桌子菜。"
+    “seg”: “肯定”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "29岁了，我是那种一点也没有变化的人。"
+    “seg”: “”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "下班一起去吃个饭吧。"
+    “seg”: “”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "[蛋糕] [蛋糕] [蛋糕] 都忙忘记了，不然今天应该穿漂亮点的。[可爱] [可爱] [可爱]"
+    “seg”: “漂亮”
+      }
+    ]
+  },
+  {
+    "-id": "115",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "晚间九点，扬州文昌路与淮海路交叉段中行门口，三十余名金发碧眼老外齐聚大声欢唱长达一小时，歌词大意为：扬州猪肉太贵鸟，吃不起啊吃不起！"
+        “seg”: “欢唱 大意”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "过往路人皆内流满面…"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "116",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "//@张醒生：如果还有人要为文革唱赞歌，鸣不平，这个惨剧他就可能回摊上！"
+    “seg”: “赞歌 惨剧”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "anger",
+        "-emotion-2-type": "none",
+        "#text": "//@徐小平：文革时期的广西发生过更加惨无人道的事情。"
+    “seg”: “惨无人道”
+      }
+    ]
+  },
+  {
+    "-id": "117",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "昨天到今天的事情，6.2日两个人早上6点50坐飞机去济州岛拍摄cf，cf拍摄时间是上午的10点左右，然后下午nk做13:55的飞机飞回首尔，妞的飞机更早些。"
+    “seg”: “回首”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "6.3日pc时间2:22nk推歌 一首无比鸡血的歌。"
+    “seg”: “无比”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "早上2pm做飞机去日本参加演出， 函数今天貌似拍摄后续曲的mv？"
+    “seg”: “演出”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "有消息说2pm6.24日正式cb"
+    “seg”: “消息”
+      }
+    ]
+  },
+  {
+    "-id": "118",
+    "-emotion-type": "none",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "N",
+      "#text": "历史图片：河北省涉县天津钢铁厂是重污染企业，企业规模还在不断扩大，严重影响当地居民的生活（ 2008年3月18日）。"
+  “seg”: “污染 严重”
+    }
+  },
+  {
+    "-id": "119",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "我的美丽日记第七次开团啦，拒绝暴利，只买对的不买贵的，爱美的mm 加油啊。"
+    “seg”: “美丽 暴利”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "10余种任选，还等什么www.linggantuan.com"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "120",
+    "-emotion-type": "disgust",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "anger",
+        "-emotion-2-type": "none",
+        "#text": "这些娜狗，还没开打个个都跑出来吠，"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "我倒要看到底是李娜横扫彭帅还是彭帅横扫李娜，"
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+    “seg”: “”
+        "#text": "到时不要你家主人输球就说因为状态不好"
+      }
+    ]
+  },
+  {
+    "-id": "121",
+    "-emotion-type": "none",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "N",
+      "#text": "如果你和你老公结婚 你会选择买一件6000块钱的婚纱呢 还是会选择租一件比6000块还好的1000块一天的婚纱"
+    “seg”: “”
+    }
+  },
+  {
+    "-id": "122",
+    "-emotion-type": "happiness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "在中国，路桥费恐怕都得上万了吧？"
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "[赞][哈哈] 我们爱讲冷笑话:趁年轻 赶快留下点什么吧~[奥特曼]"
+    “seg”: “冷笑”
+      }
+    ]
+  },
+  {
+    "-id": "123",
+    "-emotion-type": "surprise",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "surprise",
+        "-emotion-2-type": "none",
+        "#text": "Facebook上遇到一个完全不懂中文的马来西亚男玉米，这位同学只能利用比较少的一些李宇春的英文介绍和少量的Cantonese顽强成长着，竟然还不火星，竟然还自己贴了我葱《达人志》的新图。"
+    “seg”: “顽强”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "正聊着，答应人家会更多的传中英双语的材料上去。"
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "surprise",
+        "#text": "感动的是，只是因为wikipedia的小介绍，只是因为音乐纯粹的爱下去"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "124",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "今日互动话题：某城市的交通协管员在红灯亮时，在斑马线前拉起红线以防行人闯红灯，这种做法您认同吗？"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "您是怎么看待这类事情的？"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "125",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "今日话题，走着：全国高考今日拉开帷幕，各地高考作文题陆续公布。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "天津卷高考作文题目为《镜子》，镜子…"
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "是人们自我反省的一个最好的媒介，没有人能比我们自己更了解自己。"
+    “seg”: “反省”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "找一面镜子，面对自己，你看到了什么？"
+    “seg”: “”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "N",
+        "#text": "有什么话想对自己说么？"
+    “seg”: “”
+      },
+      {
+        "-id": "6",
+        "-emotion_tag": "N",
+        "#text": "《直播天下》今日话题：如何面对这面镜子"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "126",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "想当胖纸其实很简单！"
+    “seg”: “其实”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "NO1：巧克力饼干，每天6片，一年胖14kg。"
+    “seg”: “饼干”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "NO2：巧克力棒，每天一条，一年胖13kg。"
+    “seg”: “”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "NO3：果汁，每天一罐500ml，一年胖12kg。"
+    “seg”: “”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "N",
+        "#text": "NO4：可乐：每天一罐375ml，一年胖8kg。"
+    “seg”: “”
+      },
+      {
+        "-id": "6",
+        "-emotion_tag": "N",
+        "#text": "NO5：啤酒：每天一罐375ml，一年胖7kg。"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "127",
+    "-emotion-type": "like",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "这总统太帅了！"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "//@乌鲁木齐卷毛：我喜欢。"
+    “seg”: “喜欢”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "看的我现在有种突然想喝雪碧。"
+    “seg”: “”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "//@Rayila_melody很安静：给力！"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "128",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "王晓初总经理描绘美好未来：中国电信移动用户2014年将达到2亿户，70%为3G用户。"
+    “seg”: “美好”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "今年天翼手机销售量需求将超过6000万。"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "129",
+    "-emotion-type": "anger",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "anger",
+        "-emotion-2-type": "none",
+        "#text": "儿子近来表现不是很好，今天我教育了他：人吃饭是为了活着，但活着不一定就是为了吃饭；"
+    “seg”: “教育 一定”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "同样读书不是为了完成老师布置的作业而读，但完成作业是读书的必须的第一步，不要读死书，更不能死读书！"
+    “seg”: “必须”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "任何事情要去努力更要学会变通。。。！"
+    “seg”: “变通”
+      }
+    ]
+  },
+  {
+    "-id": "130",
+    "-emotion-type": "none",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "N",
+      "#text": "近日，民政部向国家宗教事务局送达社会团体负责人备案及社会团体法定代表人变更通知书，国家宗教事务局局长王作安兼任中华宗教文化交流协会会长，副局长齐晓飞兼任中华宗教文化交流协会副会长，副局长蒋坚永兼任中华宗教文化交流协会副会长、秘书长，副局长张乐斌兼任中华宗教文化交流协会副会长。"
+    “seg”: “”
+    }
+  },
+  {
+    "-id": "131",
+    "-emotion-type": "disgust",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "我妈在看建党90的晚会。。。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "我在上网。。。"
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "然后听到电视里传来一个鸡血的女声，大声动情的喊着！"
+    “seg”: “动情”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "地动山摇！"
+    “seg”: “”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "N",
+        "#text": "啥啥这一刻我看到大爱升起的剂量。"
+    “seg”: “”
+      },
+      {
+        "-id": "6",
+        "-emotion_tag": "N",
+        "#text": "三年啊地震啊！"
+    “seg”: “”
+      },
+      {
+        "-id": "7",
+        "-emotion_tag": "N",
+        "#text": "党旗飘扬！"
+    “seg”: “飘扬”
+      },
+      {
+        "-id": "8",
+        "-emotion_tag": "N",
+        "#text": "俺滴个心肝脾肺肾乃。。"
+    “seg”: “心肝”
+      },
+      {
+        "-id": "9",
+        "-emotion_tag": "N",
+        "#text": "老子一身鸡皮疙瘩啊。。"
+    “seg”: “”
+      },
+      {
+        "-id": "10",
+        "-emotion_tag": "N",
+        "#text": "最后那姐们大喊一声：脊梁！"
+    “seg”: “”
+      },
+      {
+        "-id": "11",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "老子后背脊梁那个一凉啊！"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "132",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "收盘解读：周二大盘平开下探至2736点后反弹，指数收出T型k线，涨幅榜上依然是收益保障房建设的水泥等，技术上指数没有探到5日线就反弹，指数面临2780压力位，kdj指标j值超过100有指标修复要求，量能减少观望加大，盘面上没有领涨蓝筹。"
+    “seg”: “”保障 建设
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "周三大盘将继续调整，操作上短线回避，中线逢低建仓保障房受益板块"
+    “seg”: “保障”
+      }
+    ]
+  },
+  {
+    "-id": "133",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "爱华林翰旋转房屋：这座八角形房屋可以实现360度旋转。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "坐在屋中，只要轻轻按动按钮，屋子就可以自动旋转。"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "134",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "请看我打出来的总结！"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "ps：想得很辛苦打得很辛苦！！"
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "一边看着以下症状，一边笑笑地一个人闷点头的人！！"
+    “seg”: “”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "看完觉得有符合自己的就转！"
+    “seg”: “”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "N",
+        "#text": "[哈哈][哈哈][哈哈]"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "135",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "他说，今年对农业、水利、交通、环境、生态保护等与民生息息相关的支出也有大幅度增加。"
+    “seg”: “息息相关”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "与此同时，中央财政对地方的税收返还和一般性转移支付，大部分也是用于民生方面的开支。"
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "这部分由地方政府作为收入统一进行安排，纳入预算。"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "136",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "《清品菜根》：梦里悬金佩玉，事事逼真，睡去虽真觉后假；闲中演偈谈元，言言酷似，说来虽是用时非。"
+    “seg”:”逼真”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "甄氏语：真真是句句道与凡人哉！"
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "若非还初鬼或仙，焉能知我梦里真？"
+    “seg”: “”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "羞、羞、羞，惟羞凡人用时非！"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "137",
+    "-emotion-type": "like",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "Y",
+      "-emotion-1-type": "like",
+      "-emotion-2-type": "none",
+      "#text": "刚接到Katty的电话，她正在北京机场，一家人要飞往香港，快一年没听到声音，很亲切，这次回国她不来上海，否则尽地主之谊，好好地陪着游玩。"
+      “seg”: “亲切 地主 游玩”
+    }
+  },
+  {
+    "-id": "138",
+    "-emotion-type": "like",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "艾在工作，我一个人去了总统府，仿佛经历从清末到民国的时空穿行。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "相比历史长河中的变迁，人会显得很渺小。"
+    “seg”: “变迁 渺小”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "在这个春风沉醉的晚上，她说仿佛看到了2003年的我。"
+    “seg”: “沉醉”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "我们都希望彼此的生活能越来越好！"
+    “seg”: “希望”
+      }
+    ]
+  },
+  {
+    "-id": "139",
+    "-emotion-type": "like",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "明天凌晨，偶的米兰就要出战了。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "like",
+        "#text": "虽然首回合意外落败，但是我对于他们翻盘仍然充满信心。"
+    “seg”: “信心”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "因为那是必须的。"
+    “seg”: “必须”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "米兰拥有热刺所不具备的欧冠淘汰赛经验，以及豪门的气质。"
+    “seg”: “气质”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "N",
+        "#text": "唯一的漏洞是主教练和伊布。。。。。。"
+    “seg”: “漏洞”
+      },
+      {
+        "-id": "6",
+        "-emotion_tag": "N",
+        "#text": "如果有因9该多好啊。"
+    “seg”: “”
+      },
+      {
+        "-id": "7",
+        "-emotion_tag": "N",
+        "#text": "我预计比分2：0。。。。。。"
+    “seg”: “”
+      },
+      {
+        "-id": "8",
+        "-emotion_tag": "N",
+        "#text": "贝尔，范法都是浮云。。。。。"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "140",
+    "-emotion-type": "none",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "N",
+      "#text": "不知道现在除了老头老太太还有多少年轻人集邮，反正我觉得这个产业越来越没意思了，好几次想放弃，不过看到一些精美的专题还是有些舍不得，例如历代绘画作品，书法，年画等，真是纠结！"
+    “seg”: “没意思 精美 舍不得”
+    }
+  },
+  {
+    "-id": "141",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "08年开始进入创意产业，出版、收藏、游戏，做到现在才理解。"
+    “seg”: “创意 游戏 理解”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "为什么中国的文化产品无法真正走出去。"
+    “seg”: “真正”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "日本只有我们1/4之一的人口，但他们的高达、圣斗士、七龙珠都是有自己的价值观，他们也通过营造了几乎所有国家都接受的世界观，让产品、形象大举进入全球市场。"
+    “seg”: “斗士”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "以前真的不理解所谓普世到底是什么。。。"
+    “seg”: “理解”
+      }
+    ]
+  },
+  {
+    "-id": "142",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "所有的音乐都是骗子，他们许诺带你去一个美好世界，其实只是装作知道方向，诓你一段在路上的时光。"
+    “seg”: “骗子 美好 其实”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "而你听到的声音，其实早已死去，像星空中那些早已熄灭的星星，像一部主角早已故亡的电影，你看着一首歌从喉咙中飞出，轰然倒塌在风里，当你听到的时候，一切都太迟了。"
+    “seg”: “其实 主角”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "你听到的不是建立，是消亡。"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "143",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "假如你想要一件东西，就放它走。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "它若能回来找你，就永远属于你；它若不回来，那根本就不是你的。"
+    “seg”: “根本”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "-----晚安!"
+    “seg”: “”
+      }
+    ]
+  },
+  {
+    "-id": "144",
+    "-emotion-type": "disgust",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "回复@阿依實特:你这么一搞，就砸了 @侯宁 的脚。"
+    “seg”: “”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "侯总习惯穿拖鞋。"
+    “seg”: “”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "//@阿依實特:叫老王作证明？"
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "中央政府的鞋比较大，砸不到脚趾头 两瓶茅台，中央政府搬起石头砸了地方政府的脚@侯宁"
+      }
+    ]
+  },
+  {
+    "-id": "145",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "6月28日，一些同性恋者和支持者在古巴首都哈瓦那街头参加活动，纪念石墙事件42周年。"
+    “seg”:”纪念”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "1969年6月28日及随后的几天，在美国纽约市的石墙酒吧（Stonewall Inn）及附近街头发生了同性恋者反抗警察骚扰的事件，对后来美国乃至全世界的LGBT反歧视和争取平等权利运动产生了很大影响，也是同性恋骄傲月的由来。"
+    “seg”:”歧视 骄傲”
+      }
+    ]
+  },
+  {
+    "-id": "146",
+    "-emotion-type": "none",
+    "sentence": {
+      "-id": "1",
+      "-emotion_tag": "N",
+      "#text": "班集体14号清远漂流，考虑再三，还是推了，感觉很冷淡，还是跟深圳的球友吹水吧，学生的日子已过一段日子，选择忘记，大家玩的开心点。"
+  “seg”:”漂流 冷淡 开心”
+    }
+  },
+  {
+    "-id": "147",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "[思考] 有人说：人的一生要遇到四种人，每个人的人生都要找到四个人。"
+    “seg”:””
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "第一个是自己, 第二个是你最爱的人， 第三个是最爱你的人， 第四个是共度一生的人。"
+    “seg”:””
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "生活是现实的，后面的三个人往往不会是同一个人。"
+    “seg”:””
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "那么，他是你生命中的第几个人呢？"
+    “seg”:””
+      }
+    ]
+  },
+  {
+    "-id": "148",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "高盛：预计５月数据CPI 通胀率及实体经济增速回升。"
+    “seg”:””
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "高盛经济学家乔虹表示，最近几周食品价格上涨，肉类、特别是猪肉价格持续上涨以及南方旱灾导致蔬菜及水产品涨价是其主要原因。"
+    “seg”:””
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "5 月份CPI 同比增幅可能从4 月份的5.3%升至5.5%。"
+    “seg”:””
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "隐含的季调后月环比折年增速从4 月份的3.5%反弹至约5.7%。"
+    “seg”:””
+      }
+    ]
+  },
+  {
+    "-id": "149",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "[话筒] 同学们注意啦！"
+    “seg”:””
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "安理会即将举行会议，正式就向联大推荐下一届秘书长人选问题进行表决。"
+    “seg”:”推荐 表决”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "潘基文是唯一的候选人。"
+    “seg”:””
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "你支持他他连任吗？"
+    “seg”:”支持”
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "N",
+        "#text": "别忘了参与我们发起的投票哦！"
+    “seg”:””
+      },
+      {
+        "-id": "6",
+        "-emotion_tag": "N",
+        "#text": "[来]"
+    “seg”:””
+      }
+    ]
+  },
+  {
+    "-id": "150",
+    "-emotion-type": "like",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "今天，我将为我的好朋友科洛·图雷表达一下我的心情。"
+    “seg”:”朋友”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "他是如此诚实的一个运动员和一个伟大的人。"
+    “seg”:”诚实 伟大”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "他从不做坏事。"
+    “seg”:”坏事”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "我坚定不移地站在他身后支持他，我希望他能够尽快返回赛场，正是因为有了像他这样的家伙，英超才能够成为世界第一联赛。"
+    “seg”:”坚定不移 身后 支持 希望”
+      }
+    ]
+  },
+  {
+    "-id": "151",
+    "-emotion-type": "happiness",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "哈哈哈，今天我终于可以睡一半的床了！"
+    “seg”:””
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "happiness",
+        "-emotion-2-type": "none",
+        "#text": "[鼓掌][鼓掌]宝宝今天安单睡在中线的另一半[偷笑]我本来睡相不差，可是和宝宝睡一起太压抑了，导致我现在宝宝不在的时候我就会翻来翻去的睡觉[偷笑]"
+    “seg”:”压抑”
+      }
+    ]
+  },
+  {
+    "-id": "152",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "活的简单点，就是懂得放弃，放弃才会拥有。"
+    “seg”:””
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "世界太大，想做的事太多，而人生太有限。"
+    “seg”:””
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "如果每天起码发一条微博，即使不经典、哪怕不给力，这样你也会觉得开心快乐。"
+    “seg”:”经典 开心 快乐”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "给人充分的尊重与友爱，就是敌人也会变成朋友；同样信任别人，也会得到别人信任。"
+    “seg”:”尊重 友爱 敌人 朋友 信任 信任”
+      }
+    ]
+  },
+  {
+    "-id": "153",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "总有一个人，一直住在心里，却告别在生活里。"
+    “seg”:””
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "忘不掉的是回忆，继续的是生活，来来往往身边出现了很多人，总有一个位置，一直没有变。"
+    “seg”:”回忆”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "如果彼此出现早一点，也许就不会和另一个人十指相扣。"
+    “seg”:””
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "爱在不对的时间，除了珍藏那一滴心底的泪，无言的走远，又能有什么选择？"
+    “seg”:”不对 珍藏”
+      }
+    ]
+  },
+  {
+    "-id": "154",
+    "-emotion-type": "disgust",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "真热!"
+    “seg”:””
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "surprise",
+        "-emotion-2-type": "none",
+        "#text": "才六月!"
+    “seg”:””
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "surprise",
+        "-emotion-2-type": "disgust",
+        "#text": "六点起床就已这温度了!"
+    “seg”:””
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "N",
+        "#text": "一早上的拍摄像洗澡，午后该如何!"
+    “seg”:””
+      },
+      {
+        "-id": "5",
+        "-emotion_tag": "N",
+        "#text": "我闭上眼，想像自己身在北极!"
+    “seg”:””
+      },
+      {
+        "-id": "6",
+        "-emotion_tag": "N",
+        "#text": "正暗爽时，一个声音窜进脑海：哥们，别自己骗自己了，现在北极也热了，没听说冰都化了吗!"
+    “seg”:””
+      },
+      {
+        "-id": "7",
+        "-emotion_tag": "N",
+        "#text": "我勒个去，2012世界末日，原来大家都是热死的!"
+    “seg”:”末日”
+      },
+      {
+        "-id": "8",
+        "-emotion_tag": "N",
+        "#text": "我不热，我不热，我不热。。"
+    “seg”:””
+      },
+      {
+        "-id": "9",
+        "-emotion_tag": "N",
+        "#text": "老话老说，保护环境，从每一个人做起吧"
+    “seg”:””
+      }
+    ]
+  },
+  {
+    "-id": "155",
+    "-emotion-type": "disgust",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "为嘛今天新增了的粉丝都是没有头像的...."
+    “seg”:””
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "disgust",
+        "-emotion-2-type": "none",
+        "#text": "我郁闷呀[泪] 大家注册微薄的时候能不能放张头像,别那么小气呢..."
+    “seg”:”小气”
+      }
+    ]
+  },
+  {
+    "-id": "156",
+    "-emotion-type": "like",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "我的愿望很简单：在哪里遇到你，在哪喜欢你，在哪把你放在心里；我的爱很简单：不要你的承诺，不要你的施舍，要给就给你的真心。"
+    “seg”:”愿望 喜欢 施舍 真心”
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "在忙的时候、在苦的时候、在悲伤的时候，有你就好。"
+    “seg”:”悲伤”
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "none",
+        "#text": "我希望你快乐、对家人有责任；你幸福、自己的爱明白。"
+    “seg”:”快乐 幸福”
+      },
+      {
+        "-id": "4",
+        "-emotion_tag": "Y",
+        "-emotion-1-type": "like",
+        "-emotion-2-type": "sadness",
+        "#text": "真想你~"
+    “seg”:””
+      }
+    ]
+  },
+  {
+    "-id": "157",
+    "-emotion-type": "none",
+    "sentence": [
+      {
+        "-id": "1",
+        "-emotion_tag": "N",
+        "#text": "看show的时候，一直在想，窦唯现在是不是挺后悔呢？"
+    “seg”:””
+      },
+      {
+        "-id": "2",
+        "-emotion_tag": "N",
+        "#text": "这么好的姑娘，咋就放跑了，便宜了李亚鹏这家伙，嘿嘿。"
+    “seg”:””
+      },
+      {
+        "-id": "3",
+        "-emotion_tag": "N",
+        "#text": "走神了我[嘘]"
+    “seg”:””
+      }
+    ]
+  }
+]
+

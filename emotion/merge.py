@@ -67,9 +67,10 @@ def main(clusters, k, n):
 
 if __name__ == '__main__':
     docs = apriori.docs
-    clusters = apriori.apriori(docs, 0.1)
+    clusters = apriori.apriori(docs, 0.02)
     belong  = overlap.main(docs,clusters)
-    result = main(clusters, 0.4, 6)
+    result = main(clusters, 0.1, 6)
+
     for i in range(len(result)):
         if type(clusters[i]) == int:continue
         sum = 0
