@@ -29,13 +29,13 @@
         <!-- 话题列表 -->
         <div class="list">
             <ul>
-                <li style="background: #14b7f2;color: #000000; pointer-events: none">雄安新区成立</li>
-                <a href="chart2.html"><li>曼彻斯特恐怖袭击</li></a>
+                <li id="topic1" class="active">雄安新区成立</li>
+                <li id="topic2" class="not-active">曼彻斯特恐怖袭击</li>
             </ul>
         </div>
 
         <!-- 话题情感分析数据显示 -->
-        <div id='chart1'></div>
+        <div id="chart1"></div>
         <div id="chart2" style="display: none"></div>
 
 
@@ -64,6 +64,30 @@
     	    }
         }
         });
+
+        var chart2 = c3.generate({
+        bindto: '#chart2',
+        data: {
+        x:'x',
+        columns: [
+            ['x','2017-05-22','2017-05-23','2017-05-24','2017-05-25','2017-05-26','2017-05-27','2017-05-28','2017-05-29','2017-05-30','2017-06-01','2017-06-02'],
+            ['喜好', 23,43,31,14,10,30,40,35,29,16,8,3],
+            ['恐惧', 780,607,203,110,870,200,180,340,288,134,156,166],
+            ['悲伤', 2744,512,523,381,377,200,159,84,55,75,52,54],
+            ['高兴', 23,63,32,24,12,72,53,53,23,23,64,34],
+            ['厌恶', 230,320,530,221,176,86,18,14,143,75,43,90],
+            ['惊讶', 540,283,156,143,55,61,28,67,53,37,16,58],
+            ['愤怒', 623,512,523,411,373,200,180,154,91,65,42,34]
+        ]},
+        axis:{
+    	    x: {
+    		    type: 'timeseries',
+    		    tick: {
+    			    format:'%m-%d'
+    		    }
+    	    }
+        }
+        });
     </script>
 
 
@@ -78,6 +102,18 @@
             d3.select(this).style("color","#14b7fa");
         }).on("mouseleave",function () {
             d3.select(this).style("color","#ffffff");
+        });
+        d3.select("#topic1").on("click",function () {
+            d3.select(this).attr("class","active");
+            d3.select("#topic2").attr("class","not-active")
+            d3.select("#chart2").style("display","none")
+            d3.select("#chart1").style("display","block")
+        });
+        d3.select("#topic2").on("click",function () {
+            d3.select(this).attr("class","active")
+            d3.select("#topic1").attr("class","not-active")
+            d3.select("#chart1").style("display","none")
+            d3.select("#chart2").style("display","block")
         });
     </script>
     <!-- 单页面script end-->

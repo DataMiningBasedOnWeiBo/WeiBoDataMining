@@ -24,8 +24,16 @@ body{
 .list ul li{
     list-style: none;
     display: inline;
-    background: #000000;
     padding: 5px 10px;
     color: #ffffff;
+}
+
+.not-active {
+    background: #000000;
+}
+
+.active {
+    background: #14b7f2;
+    pointer-events: none;
 }
 
