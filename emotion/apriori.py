@@ -3,7 +3,6 @@ import imp
 import sys
 import json
 imp.reload(sys)
-from chardet import detect
 
 def apriori(D, minSup):
     '''频繁项集用keys表示，
